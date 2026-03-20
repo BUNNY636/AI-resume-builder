@@ -1,0 +1,5 @@
+{
+  "name": "ResumeTailor AI",
+  "description": "AI-powered professional resume tailoring SaaS using Gemini and Google's X-Y-Z formula.",
+  "requestFramePermissions": []
+}
